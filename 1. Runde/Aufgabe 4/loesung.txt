@@ -1,0 +1,52 @@
+TIMO ist nicht möglich
+
+Unmögliche Wörter:
+JUTE JUST HTML HTTP JAZZ JAVA JANS JAHR JACK JAGD
+ION IRE OMA OMI ORT TAG TAL TAT TAU TYP
+IM IN OB UM
+
+BIBER:
+Kennzeichenfolge gefunden
+B IB 00, E R 00
+
+BUNDESWETTBEWERB:
+Kennzeichenfolge gefunden
+B UN 00, DE SW 00, E TT 00, BE WE 00, R B 00
+
+CLINTON:
+Kennzeichenfolge gefunden
+C LI 00, NT ON 00
+
+DONAUDAMPFSCHIFFFAHRTSKAPITÄNSMÜTZE:
+Kennzeichenfolge nicht gefunden
+
+ETHERNET:
+Kennzeichenfolge gefunden
+E TH 00, E RN 00, E T 00
+
+INFORMATIK:
+Kennzeichenfolge gefunden
+IN FO 00, R M 00, AT IK 00
+
+LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH:
+Kennzeichenfolge gefunden
+LL AN 00, F AI 00, RP WL 00, LG WY 00, N GY 00, LL GO 00, GER YC 00, H WY 00, RN DR 00, OB WL 00, LL LA 00, NT YS 00, IL IO 00, G OG 00, OG O 00, C H 00
+
+RINDFLEISCHETIKETTIERUNGSÜBERWACHUNGSAUFGABENÜBERTRAGUNGSGESETZ:
+Kennzeichenfolge nicht gefunden
+
+SOFTWARE:
+Kennzeichenfolge gefunden
+SO FT 00, WA RE 00
+
+TRUMP:
+Kennzeichenfolge gefunden
+TR U 00, M P 00
+
+TSCHÜSS:
+Kennzeichenfolge nicht gefunden
+
+VERKEHRSWEGEPLANUNGSBESCHLEUNIGUNGSGESETZ:
+Kennzeichenfolge gefunden
+VER KE 00, HR SW 00, EG EP 00, LAN UN 00, GS BE 00, SC HL 00, EU NI 00, GUN GS 00, G ES 00, E TZ 00
+

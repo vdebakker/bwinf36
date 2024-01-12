@@ -1,0 +1,8 @@
+﻿Bitte geben sie für jeden Block	seine Länge in eine neue Zeile ein
+3
+2
+5
+1
+6
+5
+6

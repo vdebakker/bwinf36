@@ -1,0 +1,6 @@
+1 Kinder
+4 Jugendliche
+5 Erwachsene
+0 Gutscheine
+False Schulzeit
+False Wochenende

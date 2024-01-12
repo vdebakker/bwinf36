@@ -1,0 +1,6 @@
+0 Kinder
+0 Jugendliche
+32 Erwachsene
+2 Gutscheine
+True Schulzeit
+True Wochenende
